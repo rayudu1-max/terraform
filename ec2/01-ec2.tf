@@ -18,6 +18,6 @@ resource "aws_security_group" "allow_tf" {
 
   tags {
     Name = "allow_tf"
-    Created by = "Rayudu"
+    CreatedBy = "Rayudu"
   }
 }
